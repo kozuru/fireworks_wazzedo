@@ -1,4 +1,3 @@
-$(function(){
 (function ($) {
 	$.fn.fireworks = function(options) {
     // set the defaults
@@ -274,4 +273,3 @@ $(function(){
 	return fireworksField;
 };
 }(jQuery));
-});
