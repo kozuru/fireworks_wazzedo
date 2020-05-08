@@ -11,4 +11,3 @@ $('#divElement').fireworks({
     width: '400',
     height: '300'
 });
-
